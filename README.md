@@ -1,9 +1,7 @@
-# Baseball_Stats
-Baseball stats through the years 
-<<<<<<< HEAD
+Player Average of Home Runs vs At-Bat Per Year Analysis 
 
-This will be a great project. 
-=======
-Brian
->>>>>>> 5f4ebf2e4acd22f518bd63a3d845ac43676f28c9
-Savannah is great
+
+In this analysis, we will be looking at the relationship between individual player home runs (HR) per year and the league average of home runs per year. We will be using a line graph to compare the individual player’s data to the overall player’s data to see if there are any correlations. 
+
+After randomly selecting players to visually analyze, we can draw a few conclusions.  The average of the individual players compared to the overall average per year, did not affect the length of years the players played. Even if the players were below the league’s average, they still played for the same amount of years as players who were above the league average. We can also see that the individual players varied significantly with their averages each year, whereas the league average stayed relatively the same throughout the years with slight increases and decreases. The last 10 years of the overall league averages also have an increase. This shows that HR/AB averages have steadily been increasing over the years. This can be for many reasons, but mainly can be due to the significant changes and improvements in data analytics, stats and research that teams complete in order to recruit the best players. In conclusion, we can predict that the HR/AB average will continue to steadily increase while individual players will have significantly varied averages each year they play. 
+
