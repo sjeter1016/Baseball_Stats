@@ -1,3 +1,7 @@
-# Baseball_Stats
-Baseball stats through the years 
-Brian
+MLB Baseball Analysis
+
+Our group chose to analyze a dataset for baseball statistics. Initial Dataset ranged from the year 1871 to 2015 and included hitting statistics such as Home Runs, Hits, Doubles, Strikeouts, etc. Before starting, we decided to limit the data and compare statistics only to the modern baseball era from 1970 onwards to limit the scope of data run for our analysis. To further clean this data, a minimum qualifier was added of 100 At-Bats. To avoid multiple outliners within our analysis, we removed any player who did not meet this minimum requirement from the dataset. Finally, once data was cleaned, the project was divided upon 3 sections – Strike Outs, Hits, & Home Run Analysis. Proposal for each Stat can be seen below:
+
+1)	Strike Out Analysis – Research was conducted by Brian Keuthan and includes a comparison of SOs against all other stat categories. Looking to plot scatter plots of SOs (per AB) and compare against R, RBI, H, 2B, 3B, SO, BB (per AB) to see which, if any, have a strong correlation to one another using R score as the statistical metric comparing both variables.
+2)	Hits Analysis –Research was conducted by Savannah Jeter and includes a time comparison of HRs per Year plotting individual players against the league average per year.
+3)	Home Run Analysis - Research was conducted by Lai-Ting Jacqlyn Cheng and includes a time comparison of Home Runs vs Hits (per year). Rather than focusing on individuals against the mean, analysis was conducted by grouping every 4 years and looking for a positive or negative trend to see if home runs per hits would improve.
